@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReferenceTypesAndValueTypes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
